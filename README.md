@@ -1,5 +1,5 @@
 - ![Bluesky icon](Bluesky.svg) Bluesky
-  - [Penpen](https://bsky.app/profile/penpenpenpenpenpen.bsky.social)
+  - [Penpen](https://bsky.app/profile/penpenpenpenpenpen.bsky.social) (penpenpenpenpenpen.bsky.social)
     
 - ![Discord icon](Discord.svg) Discord
   - @penpenpenpenpenpenpenpenpenpen ([Link](http://discord.com/users/658194861710901278))
